@@ -57,4 +57,4 @@ Kullanıcı hesabı: Email= kullanici@gmail.com, Parola= kullanıcı
 ## Geliştirici
 Bu proje tamamen bireysel olarak geliştirilmiştir. 👨‍💻  
 
-- **Geliştirici:** Leachyphey  
+- **Geliştirici:** Leachphey  
